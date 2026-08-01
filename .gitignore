@@ -1,0 +1,64 @@
+# Python
+venv/
+**/venv/
+env/
+**/env/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+**/node_modules/
+build/
+**/build/
+dist/
+**/dist/
+*.log
+
+# Environment
+.env
+**/.env
+.env.local
+**/.env.local
+.env.*
+**/.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Project specific
+*.backup
+temp/
+tmp/
+
+# Development and testing files (not for public repo)
+test-results/
+STARTER_GUIDE
+check_ready.py
+PRE_COMMIT_VALIDATION.sh
+PROJECT_COMPLETE.md
+quick_test.py
+test_complete_workflow.py
+test_mcp_server.py
+test_with_session_api.py
+test_runner.py
+
+# Environment-specific setup guides (content integrated into README)
+CLAUDE_DESKTOP_SETUP.md
+ENHANCEMENT_GUIDE.md

@@ -1,0 +1,29 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 1, 2026, between TechCorp Inc., a Delaware corporation ("Provider"), and StartupCo LLC, a California limited liability company ("Client").
+
+1. SERVICES
+Provider agrees to deliver software development and maintenance services as specified in Statements of Work ("SOW").
+
+2. PAYMENT TERMS
+Client shall pay Provider a monthly fee of $10,000 USD, payable within 30 days of invoice date (NET 30). Late payments subject to 1.5% monthly interest.
+
+3. LIABILITY
+Provider's liability under this Agreement shall be LIMITED to two times (2x) the monthly fees paid in the preceding 12 months.
+
+4. INSURANCE
+Provider maintains professional liability insurance of at least $1,000,000 per occurrence.
+
+5. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue for 12 months, with automatic renewal for successive 12-month periods unless either party provides written notice of termination at least 60 days prior to the end of the current term.
+
+6. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of all proprietary information for a period of 5 years following termination.
+
+7. DISPUTE RESOLUTION
+Any disputes arising under this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.

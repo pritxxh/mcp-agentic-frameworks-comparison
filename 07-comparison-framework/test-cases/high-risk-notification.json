@@ -1,0 +1,8 @@
+{
+  "id": "high_risk_notification",
+  "name": "High Risk with Notification",
+  "description": "Risk triggers notification workflow",
+  "contract": "CONSULTING AGREEMENT\n\nConsultant: John Doe\nCompany: BigCorp\n\n1. Services: IT consulting\n2. Payment: $200/hour, invoiced monthly\n3. LIABILITY: CONSULTANT ASSUMES UNLIMITED LIABILITY FOR ALL DAMAGES\n4. Insurance: None required\n5. Indemnification: Consultant indemnifies company for all claims\n6. Term: Indefinite\n7. Termination: No termination clause specified",
+  "expected_tools": ["summarize_contract", "analyze_contract", "assess_risk", "send_notification"],
+  "complexity": "high"
+}

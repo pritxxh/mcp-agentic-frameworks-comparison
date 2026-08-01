@@ -1,0 +1,69 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of May 1, 2026, by and between:
+
+InnovateTech Inc., a Delaware corporation ("Party A")
+and
+Strategic Partners LLC, a California limited liability company ("Party B")
+
+Collectively referred to as the "Parties."
+
+WHEREAS, the Parties wish to explore a potential business relationship and will need to disclose certain confidential information to each other.
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any information disclosed by either party that is:
+- Marked as "Confidential" or similar designation
+- Orally identified as confidential at time of disclosure and confirmed in writing within 15 days
+- Would reasonably be understood as confidential given its nature
+
+Confidential Information does NOT include information that:
+- Is or becomes publicly available through no breach of this Agreement
+- Was rightfully in receiving party's possession prior to disclosure
+- Is independently developed without use of Confidential Information
+- Is rightfully obtained from third party without restriction
+
+2. OBLIGATIONS
+Each party agrees to:
+- Hold Confidential Information in strict confidence
+- Use same degree of care as for own confidential information (minimum: reasonable care)
+- Not disclose to third parties without prior written consent
+- Use only for evaluation of potential business relationship
+- Limit access to employees/advisors with need to know
+
+3. PERMITTED DISCLOSURES
+May disclose if required by law, court order, or government regulation, provided:
+- Receiving party gives prompt written notice to disclosing party
+- Cooperates with disclosing party's efforts to obtain protective order
+- Discloses only minimum necessary
+
+4. NO LICENSE
+No license, ownership, or rights granted except as explicitly stated.
+All Confidential Information remains property of disclosing party.
+
+5. RETURN OF MATERIALS
+Upon request or termination, receiving party shall:
+- Return or destroy all Confidential Information and copies
+- Certify in writing that all materials returned/destroyed
+
+6. TERM
+This Agreement effective May 1, 2026 and continues for 3 years.
+Confidentiality obligations survive termination for 2 additional years (5 years total).
+
+7. NO WARRANTY
+Confidential Information provided "AS IS" without warranty.
+Neither party obligated to enter business relationship.
+
+8. REMEDIES
+Breach may cause irreparable harm for which monetary damages inadequate.
+Disclosing party entitled to injunctive relief in addition to other remedies.
+
+9. MISCELLANEOUS
+- Entire Agreement: Supersedes all prior agreements
+- Amendment: Only in writing signed by both parties
+- Governing Law: California law
+- Severability: Invalid provisions severed, remainder enforceable
+- No Waiver: Failure to enforce doesn't waive future enforcement
+
+Signed:
+InnovateTech Inc. - [Signature]
+Strategic Partners LLC - [Signature]

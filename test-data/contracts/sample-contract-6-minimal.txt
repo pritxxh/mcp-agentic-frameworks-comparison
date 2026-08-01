@@ -1,0 +1,34 @@
+FREELANCE WEB DEVELOPMENT AGREEMENT
+
+Between: WebDesignCo ("Developer")
+And: Local Restaurant Group ("Client")
+Date: June 1, 2026
+
+Project: Redesign restaurant website
+
+Payment: $5,000 flat fee
+Due: Upon completion
+
+Deliverables:
+- New responsive website design
+- Mobile-friendly
+- Contact form integration
+- Photo gallery
+
+Timeline: 4-6 weeks
+
+Developer will provide 2 rounds of revisions.
+
+Client provides all content (text, images, menu).
+
+Website goes live after Client approval.
+
+Developer keeps code samples for portfolio.
+
+[Signatures]
+
+_________________________
+WebDesignCo
+
+_________________________
+Local Restaurant Group

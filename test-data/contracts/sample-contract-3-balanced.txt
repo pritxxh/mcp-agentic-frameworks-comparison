@@ -1,0 +1,43 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Agreement is entered into on March 1, 2026, between DataTech Solutions LLC ("Client") and Maria Rodriguez ("Contractor").
+
+1. SERVICES
+Contractor will provide data analytics consulting services as detailed in the attached Statement of Work.
+
+2. COMPENSATION
+Contractor shall be paid $150 per hour for services rendered. Invoices submitted bi-weekly. Payment due within 15 days of invoice receipt (NET 15).
+
+3. LIABILITY
+Contractor's total liability under this Agreement is limited to the amount of fees paid to Contractor in the six (6) months prior to any claim. Neither party shall be liable for consequential, indirect, or punitive damages.
+
+4. INSURANCE
+Contractor shall maintain professional liability insurance with minimum coverage of $500,000 per occurrence and $1,000,000 aggregate.
+
+5. INTELLECTUAL PROPERTY
+Pre-existing IP: Each party retains ownership of their pre-existing IP.
+Work Product: Client owns all deliverables created under this Agreement.
+Tools/Methods: Contractor may reuse general tools, methods, and know-how developed.
+
+6. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of proprietary information for 3 years following termination.
+
+7. TERM AND TERMINATION
+Initial term: 6 months starting March 1, 2026.
+Either party may terminate with 30 days written notice.
+Upon termination, Client pays for work completed through termination date.
+
+8. INDEPENDENT CONTRACTOR
+Contractor is an independent contractor, not an employee. Contractor responsible for own taxes, insurance, and benefits.
+
+9. DISPUTE RESOLUTION
+Disputes shall be resolved through binding arbitration in accordance with AAA Commercial Arbitration Rules. Venue: State of California.
+
+10. NON-COMPETE
+During term and for 6 months after, Contractor agrees not to provide similar services to Client's direct competitors listed in Exhibit B.
+
+11. AMENDMENTS
+Any amendments must be in writing and signed by both parties.
+
+12. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.

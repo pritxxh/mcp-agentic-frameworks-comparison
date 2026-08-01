@@ -1,0 +1,8 @@
+{
+  "id": "simple_summarization",
+  "name": "Simple Summarization",
+  "description": "Single tool call to summarize a contract",
+  "contract": "Service Agreement between Company A and Company B. Services: Software development. Payment: $5,000 per month. Term: 6 months starting January 1, 2026. Termination: 30 days notice.",
+  "expected_tools": ["summarize_contract"],
+  "complexity": "low"
+}

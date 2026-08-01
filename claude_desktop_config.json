@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "contract-analysis": {
+      "command": "node",
+      "args": ["${PROJECT_ROOT}/01-mcp-server/build/index.js"]
+    }
+  }
+}

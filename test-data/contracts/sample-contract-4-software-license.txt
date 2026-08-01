@@ -1,0 +1,55 @@
+SOFTWARE LICENSING AND MAINTENANCE AGREEMENT
+
+This Agreement dated April 1, 2026 is between CloudSoft Inc. ("Licensor") and Enterprise Corp. ("Licensee").
+
+1. LICENSE GRANT
+Licensor grants Licensee a non-exclusive, non-transferable license to use CloudSoft Analytics Platform for internal business purposes only. Up to 100 named users.
+
+2. FEES
+License Fee: $50,000 annually, payable in advance.
+Maintenance Fee: 20% of license fee annually ($10,000), includes updates and support.
+Payment terms: NET 45 days from invoice date.
+
+3. TERM
+Initial term: 2 years commencing April 1, 2026.
+Auto-renews for successive 1-year terms unless either party provides 90 days written notice.
+
+4. TERMINATION
+Either party may terminate for material breach if uncured within 30 days of written notice.
+Licensor may terminate immediately if Licensee fails to pay within 15 days of due date.
+Upon termination, Licensee must cease use and destroy all copies.
+
+5. WARRANTIES
+Licensor warrants software will substantially conform to documentation.
+Warranty period: 90 days from delivery.
+Exclusive remedy: repair, replacement, or refund of fees paid.
+NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY OR FITNESS.
+
+6. LIMITATION OF LIABILITY
+Licensor's total liability limited to fees paid in 12 months preceding claim.
+NO LIABILITY FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES.
+Licensee responsible for data backup; Licensor not liable for data loss.
+
+7. INTELLECTUAL PROPERTY
+Software and documentation remain Licensor's exclusive property.
+No source code provided.
+Licensee may not reverse engineer, decompile, or disassemble.
+
+8. CONFIDENTIALITY
+Both parties protect confidential information for 5 years.
+Standard exceptions: public domain, independently developed, rightfully obtained.
+
+9. DATA AND PRIVACY
+Licensee owns all data input into software.
+Licensor may collect usage statistics for product improvement.
+Licensor will not access Licensee data without permission except for support.
+
+10. UPDATES AND SUPPORT
+Maintenance includes updates, patches, and email support during business hours.
+Response time: 2 business days for non-critical issues, 4 hours for critical.
+
+11. COMPLIANCE
+Licensee responsible for compliance with export laws and data protection regulations.
+
+12. GOVERNING LAW
+Delaware law governs. Disputes resolved in Delaware state or federal courts.

@@ -1,0 +1,38 @@
+CONSULTING AGREEMENT
+
+This Consulting Agreement ("Agreement") is made as of February 1, 2026, between BigCorp International ("Company") and John Doe ("Consultant").
+
+1. SERVICES
+Consultant shall provide IT consulting services as requested by Company.
+
+2. COMPENSATION
+Consultant shall be compensated at $200 per hour, invoiced monthly. Payment terms: NET 90.
+
+3. LIABILITY AND INDEMNIFICATION
+CONSULTANT ASSUMES UNLIMITED LIABILITY FOR ALL DAMAGES, LOSSES, COSTS, AND EXPENSES arising from or related to the services provided under this Agreement.
+
+Consultant agrees to indemnify, defend, and hold harmless Company from any and all claims, damages, liabilities, costs, and expenses of any kind whatsoever.
+
+4. INSURANCE
+No insurance requirements specified.
+
+5. INTELLECTUAL PROPERTY
+All work product, including pre-existing intellectual property brought to the engagement, becomes the exclusive property of Company upon creation.
+
+6. DATA USAGE
+Company may use any data, information, or materials provided by Consultant for any purpose whatsoever, including commercial exploitation.
+
+7. TERM
+This Agreement shall remain in effect indefinitely until terminated by Company.
+
+8. NON-COMPETE
+Consultant agrees not to engage in any competing business for a period of 5 years following termination, within a 500-mile radius of any Company location.
+
+9. CONFIDENTIALITY
+Consultant shall maintain confidentiality of Company information in perpetuity.
+
+10. TERMINATION
+Company may terminate this Agreement at any time without cause or notice. Consultant may not terminate without Company's written consent.
+
+11. MODIFICATIONS
+Company may modify this Agreement at any time by providing written notice to Consultant.

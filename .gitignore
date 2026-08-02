@@ -62,3 +62,4 @@ test_runner.py
 # Environment-specific setup guides (content integrated into README)
 CLAUDE_DESKTOP_SETUP.md
 ENHANCEMENT_GUIDE.md
+DIAGRAM-PROMPT.md

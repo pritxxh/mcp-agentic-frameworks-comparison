@@ -4,6 +4,12 @@
 
 This project provides a comprehensive comparison of different agent orchestration frameworks using a shared MCP (Model Context Protocol) server for contract analysis.
 
+## 🏗️ Architecture Overview
+
+![Architecture Diagram](diagram.jpg)
+
+*Visual representation of the MCP server architecture with three framework orchestration approaches: LangGraph (state-based), CrewAI (role-based), and Custom (raw API). All frameworks share the same MCP server and tools for consistent contract analysis.*
+
 ## 📁 Project Structure
 
 ```

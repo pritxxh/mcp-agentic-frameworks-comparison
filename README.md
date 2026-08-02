@@ -69,12 +69,11 @@ If you find this comparison helpful, please consider:
 
 ```
 mcp-agentic-frameworks-comparison/
-├── STARTER_GUIDE/           # Complete documentation (12 guides)
-├── 01-mcp-server/           # ✅ Phase 1: MCP Server (4 tools)
-├── 02-langgraph-agent/      # ✅ Phase 2: LangGraph (stateful workflow)
-├── 03-crewai-agent/         # ✅ Phase 3: CrewAI (role-based agents)
-├── 05-custom-orchestrator/  # ✅ Phase 4: Custom (raw Anthropic API)
-├── 07-comparison-framework/ # ✅ Phase 6: Comparison system
+├── 01-mcp-server/           # ✅ MCP Server (4 tools)
+├── 02-langgraph-agent/      # ✅ LangGraph (stateful workflow)
+├── 03-crewai-agent/         # ✅ CrewAI (role-based agents)
+├── 05-custom-orchestrator/  # ✅ Custom (raw Anthropic API)
+├── 07-comparison-framework/ # ✅ Comparison system
 └── test-data/              # Sample contracts
 ```
 
@@ -251,14 +250,6 @@ The MCP server provides 4 contract analysis tools:
 - You're learning how orchestration works
 - You want minimal dependencies
 
-## 📚 Documentation
-
-Complete guides available in `STARTER_GUIDE/`:
-- **README.md** - Main guide with learning paths
-- **QUICK_START.md** - 30-minute introduction
-- **PHASE_1-6.md** - Detailed build guides
-- **TROUBLESHOOTING.md** - Common issues & solutions
-
 ## 🧪 Test Data
 
 Sample contracts in `test-data/contracts/`:
@@ -287,7 +278,7 @@ Sample contracts in `test-data/contracts/`:
 - Check MCP server path in .env
 - Verify MCP server starts: `node build/index.js`
 
-See `STARTER_GUIDE/TROUBLESHOOTING.md` for more solutions.
+For more troubleshooting help, open a [Discussion](https://github.com/pritxxh/mcp-agentic-frameworks-comparison/discussions) or [Issue](https://github.com/pritxxh/mcp-agentic-frameworks-comparison/issues).
 
 ## 📈 Next Steps
 
@@ -379,4 +370,4 @@ MIT License - Feel free to use for learning and commercial projects.
 
 ---
 
-**Ready to start?** Begin with `STARTER_GUIDE/QUICK_START.md` or test the MCP server with Claude Desktop!
+**Ready to start?** Follow the Quick Start guide above to build the MCP server and test with Claude Desktop or the framework implementations!

@@ -1,14 +1,69 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/pritxxh/mcp-agentic-frameworks-comparison?style=social)](https://github.com/pritxxh/mcp-agentic-frameworks-comparison/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/pritxxh/mcp-agentic-frameworks-comparison?style=social)](https://github.com/pritxxh/mcp-agentic-frameworks-comparison/network/members)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Framework-green)](https://langchain-ai.github.io/langgraph/)
+[![CrewAI](https://img.shields.io/badge/CrewAI-Framework-purple)](https://www.crewai.com/)
+[![Anthropic Claude](https://img.shields.io/badge/Claude-AI-orange)](https://www.anthropic.com/)
+
 # Multi-Agent Orchestration Framework Comparison
 
 ## 🎉 Complete Project - Ready to Use!
 
 This project provides a comprehensive comparison of different agent orchestration frameworks using a shared MCP (Model Context Protocol) server for contract analysis.
 
+## 🔍 What's Inside
+
+**This repository demonstrates:**
+- ✅ **MCP Server** implementation with 4 contract analysis tools
+- ✅ **LangGraph** integration for state-based agentic workflows
+- ✅ **CrewAI** implementation for role-based multi-agent systems
+- ✅ **Custom orchestration** using raw Anthropic Claude API
+- ✅ **Production patterns** for real-world AI agent deployments
+- ✅ **Cross-platform** support (macOS, Windows, Linux)
+
+**Perfect for:**
+- Developers exploring agentic AI frameworks
+- Teams building production AI agent systems
+- Anyone learning MCP (Model Context Protocol)
+- Comparing LangGraph vs CrewAI vs custom approaches
+- Implementing contract analysis automation
+
+## ⭐ Support This Project
+
+If you find this comparison helpful, please consider:
+- ⭐ **Star this repository** to show your support
+- 🔀 **Fork it** to experiment with your own use cases
+- 📢 **Share it** with others who might benefit
+- 💬 **Open discussions** for questions and improvements
+
+[![GitHub stars](https://img.shields.io/github/stars/pritxxh/mcp-agentic-frameworks-comparison?style=for-the-badge&logo=github)](https://github.com/pritxxh/mcp-agentic-frameworks-comparison/stargazers)
+
 ## 🏗️ Architecture Overview
 
 ![Architecture Diagram](diagram.jpg)
 
 *Visual representation of the MCP server architecture with three framework orchestration approaches: LangGraph (state-based), CrewAI (role-based), and Custom (raw API). All frameworks share the same MCP server and tools for consistent contract analysis.*
+
+## ⚖️ Framework Comparison
+
+| Feature | LangGraph | CrewAI | Custom |
+|---------|-----------|---------|---------|
+| **Control Level** | High | Medium | Total |
+| **Learning Curve** | Moderate | Steep | Shallow |
+| **Code Complexity** | Medium | High | Low |
+| **State Management** | Built-in | Automated | Manual |
+| **Debugging** | Easy | Medium | Easy |
+| **Best For** | Structured workflows | Multi-agent collab | Learning/Full control |
+| **Performance** | Fast | Medium | Fast |
+| **Dependencies** | LangChain ecosystem | CrewAI + deps | Minimal (anthropic) |
+
+**Quick Guide:**
+- 🟢 **LangGraph** → Need predictable, stateful workflows with explicit control
+- 🟣 **CrewAI** → Complex scenarios with multiple specialized agents
+- 🟠 **Custom** → Learning orchestration or need minimal dependencies
 
 ## 📁 Project Structure
 
@@ -290,6 +345,25 @@ This project uses **rule-based tools** (fast, predictable, no API costs) which a
 - Audit all contract analyses
 
 See `01-mcp-server/src/tools/llm-enhanced.ts` for an example of LLM-enhanced tools.
+
+## 🔗 Related Resources
+
+### Official Documentation
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io) - Protocol specification and guides
+- [LangGraph Documentation](https://langchain-ai.github.io/langgraph/) - State-based agent workflows
+- [CrewAI Documentation](https://docs.crewai.com/) - Role-based multi-agent framework
+- [Anthropic Claude API](https://docs.anthropic.com/) - Claude API reference
+- [Claude Desktop](https://claude.ai/download) - Desktop client with MCP support
+
+### Learn More
+- [MCP Quickstart Guide](https://modelcontextprotocol.io/quickstart) - Get started with MCP
+- [Building Agents with LangGraph](https://langchain-ai.github.io/langgraph/tutorials/) - Official tutorials
+- [CrewAI Examples](https://github.com/joaomdmoura/crewAI-examples) - Community examples
+
+### Related Projects
+- [LangChain](https://github.com/langchain-ai/langchain) - The foundation for LangGraph
+- [MCP Servers](https://github.com/modelcontextprotocol/servers) - Official MCP server examples
+- [Awesome MCP](https://github.com/punkpeye/awesome-mcp) - Curated MCP resources
 
 ## 🙏 Credits
 
